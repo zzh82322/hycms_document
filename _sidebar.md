@@ -1,7 +1,7 @@
 
 * 服务器环境搭建
 
-  * [域名申请](./a-1申请域名.md)
+  * [域名申请](./docs/a-1申请域名.md)
   * [Java集合](./docs/b-2Java集合.md)
   * [Java多线程](./docs/b-3Java多线程.md)
   * [jvm](./docs/b-4jvm.md)
